@@ -272,6 +272,9 @@
 			{fmtNum(last.byGroup.unknown)} accounts ({pct(last.byGroup.unknown)}) couldn't be classified
 			at all.
 		</p>
-		<p>This software was generated with the assistance of AI tools and may contain mistakes.</p>
+		<p>
+			This software was generated with the assistance of AI tools and may contain mistakes.
+			<a class="font-medium hover:underline" href="https://github.com/OpenSouthAL/orcid-south-dashboard">[GitHub repo]</a>
+		</p>
 	</footer>
 </main>
