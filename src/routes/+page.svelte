@@ -66,6 +66,17 @@
 		return januaries.filter((_, k) => k % every === 0);
 	});
 
+	// Milestones marked on the chart
+	const EVENTS = [
+		{ month: '2023-08', label: 'Open South FLC formed (Aug 2023)', detail: 'during the "Year of Open Science"' }
+	];
+	const events = $derived(
+		EVENTS.flatMap((e) => {
+			const i = points.findIndex((p) => p.month === e.month);
+			return i < 0 ? [] : [{ ...e, i }];
+		})
+	);
+
 	const path = (key: Key) =>
 		points.map((p, i) => `${i ? 'L' : 'M'}${x(i)},${y(value(p, key))}`).join('');
 
@@ -138,7 +149,7 @@
 			role="img"
 			aria-label="Line chart of cumulative ORCID accounts by month and role, reaching {fmtNum(
 				last.total
-			)} in all"
+			)} in all, with the Open South FLC formation marked at August 2023"
 			class="block touch-none select-none"
 			onpointermove={onPointer}
 			onpointerdown={onPointer}
@@ -161,6 +172,21 @@
 					text-anchor="middle"
 					class="fill-(--text-secondary) text-xs tabular-nums">{points[i].month.slice(0, 4)}</text
 				>
+			{/each}
+
+			{#each events as e (e.month)}
+				<line
+					x1={x(e.i)}
+					x2={x(e.i)}
+					y1={margin.top}
+					y2={margin.top + plotH}
+					stroke="var(--text-secondary)"
+					stroke-dasharray="4 4"
+				/>
+				<text x={x(e.i) - 6} y={margin.top + 12} text-anchor="end" class="fill-(--text-secondary) text-xs">
+					<tspan class="font-medium">{e.label}</tspan>
+					<tspan x={x(e.i) - 6} dy="1.3em">{e.detail}</tspan>
+				</text>
 			{/each}
 
 			{#each visible as s (s.key)}
@@ -202,6 +228,9 @@
 				style:left="{x(hover) + 220 > width ? x(hover) - 220 : x(hover) + 12}px"
 			>
 				<div class="mb-1 text-xs text-(--text-secondary)">By end of {fmtMonth(p.month)}</div>
+				{#each events.filter((e) => e.i === hover) as e (e.month)}
+					<div class="mb-1 text-xs font-medium">{e.label} ({e.detail})</div>
+				{/each}
 				{#each visible as s (s.key)}
 					<div class="flex items-center gap-2">
 						<span class="inline-block h-0.5 w-3 rounded" style:background={s.color}></span>
