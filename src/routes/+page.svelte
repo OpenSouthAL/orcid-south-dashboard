@@ -1,7 +1,7 @@
 <script lang="ts">
 	import { invalidateAll } from '$app/navigation';
 	import { navigating } from '$app/state';
-	import { QUERY } from '#lib/orcid.ts';
+	import { GROUPS, GROUP_LABELS, QUERY, type Group, type Point } from '#lib/orcid.ts';
 	import type { PageProps } from './$types';
 
 	let { data }: PageProps = $props();
@@ -19,18 +19,36 @@
 		refreshing = false;
 	}
 
+	// One line per group plus the overall total. Colors follow the series, never its rank.
+	type Key = 'total' | Group;
+	const SERIES: { key: Key; label: string; color: string }[] = [
+		{ key: 'total', label: 'All accounts', color: 'var(--text-primary)' },
+		{ key: 'faculty', label: GROUP_LABELS.faculty, color: 'var(--series-1)' },
+		{ key: 'student', label: GROUP_LABELS.student, color: 'var(--series-2)' },
+		{ key: 'staff', label: GROUP_LABELS.staff, color: 'var(--series-3)' },
+		{ key: 'unknown', label: GROUP_LABELS.unknown, color: 'var(--series-muted)' }
+	];
+	const value = (p: Point, key: Key) => (key === 'total' ? p.total : p.byGroup[key]);
+
+	let hidden = $state<Partial<Record<Key, boolean>>>({});
+	const visible = $derived(SERIES.filter((s) => !hidden[s.key]));
+
 	const points = $derived(data.series.points);
-	const total = $derived(data.series.total);
+	const last = $derived(points.at(-1)!);
+	const headline = $derived(data.live ?? last.total);
+	const sinceSnapshot = $derived(data.live === null ? 0 : data.live - last.total);
 
 	// Layout
 	let width = $state(800);
 	const height = 360;
-	const margin = { top: 16, right: 56, bottom: 32, left: 48 };
+	const margin = { top: 16, right: 16, bottom: 32, left: 48 };
 	const plotW = $derived(Math.max(width - margin.left - margin.right, 1));
 	const plotH = height - margin.top - margin.bottom;
 
 	// Scales
-	const yMax = $derived(niceMax(Math.max(total, 1)));
+	const yMax = $derived(
+		niceMax(Math.max(1, ...visible.map((s) => value(last, s.key))))
+	);
 	const x = (i: number) => margin.left + (i / Math.max(points.length - 1, 1)) * plotW;
 	const y = (v: number) => margin.top + plotH - (v / yMax) * plotH;
 
@@ -48,10 +66,8 @@
 		return januaries.filter((_, k) => k % every === 0);
 	});
 
-	const line = $derived(points.map((p, i) => `${i ? 'L' : 'M'}${x(i)},${y(p.count)}`).join(''));
-	const area = $derived(
-		`${line}L${x(points.length - 1)},${y(0)}L${x(0)},${y(0)}Z`
-	);
+	const path = (key: Key) =>
+		points.map((p, i) => `${i ? 'L' : 'M'}${x(i)},${y(value(p, key))}`).join('');
 
 	// Hover
 	let hover = $state<number | null>(null);
@@ -68,7 +84,9 @@
 			year: 'numeric',
 			timeZone: 'UTC'
 		});
+	const fmtDate = (iso: string) => new Date(iso).toLocaleString('en-US');
 	const fmtNum = (n: number) => n.toLocaleString('en-US');
+	const pct = (n: number) => `${Math.round((n / last.total) * 100)}%`;
 </script>
 
 <svelte:head>
@@ -85,10 +103,29 @@
 			</p>
 		</div>
 		<div class="text-right">
-			<div class="text-5xl font-semibold">{fmtNum(total)}</div>
-			<div class="text-sm text-(--text-secondary)">accounts to date</div>
+			<div class="text-5xl font-semibold">{fmtNum(headline)}</div>
+			<div class="text-sm text-(--text-secondary)">
+				accounts today{#if sinceSnapshot > 0}&nbsp;· {fmtNum(sinceSnapshot)} new since the last
+					snapshot{/if}
+			</div>
 		</div>
 	</header>
+
+	<!-- Legend, doubling as series toggles -->
+	<div class="mb-3 flex flex-wrap gap-2 text-sm" role="group" aria-label="Series">
+		{#each SERIES as s (s.key)}
+			<button
+				class="flex items-center gap-2 rounded-md border border-(--grid) px-3 py-1 hover:bg-(--grid)"
+				class:opacity-40={hidden[s.key]}
+				aria-pressed={!hidden[s.key]}
+				onclick={() => (hidden[s.key] = !hidden[s.key])}
+			>
+				<span class="inline-block h-0.5 w-3 rounded" style:background={s.color}></span>
+				<span>{s.label}</span>
+				<span class="font-semibold tabular-nums">{fmtNum(value(last, s.key))}</span>
+			</button>
+		{/each}
+	</div>
 
 	<div
 		class="relative transition-opacity"
@@ -99,7 +136,9 @@
 			{width}
 			{height}
 			role="img"
-			aria-label="Line chart of cumulative ORCID accounts by month, reaching {fmtNum(total)}"
+			aria-label="Line chart of cumulative ORCID accounts by month and role, reaching {fmtNum(
+				last.total
+			)} in all"
 			class="block touch-none select-none"
 			onpointermove={onPointer}
 			onpointerdown={onPointer}
@@ -124,33 +163,16 @@
 				>
 			{/each}
 
-			<path d={area} fill="var(--series-1)" fill-opacity="0.1" />
-			<path
-				d={line}
-				fill="none"
-				stroke="var(--series-1)"
-				stroke-width="2"
-				stroke-linejoin="round"
-				stroke-linecap="round"
-			/>
-
-			<!-- End label -->
-			{#if points.length}
-				<circle
-					cx={x(points.length - 1)}
-					cy={y(total)}
-					r="4"
-					fill="var(--series-1)"
-					stroke="var(--surface-1)"
+			{#each visible as s (s.key)}
+				<path
+					d={path(s.key)}
+					fill="none"
+					stroke={s.color}
 					stroke-width="2"
+					stroke-linejoin="round"
+					stroke-linecap="round"
 				/>
-				<text
-					x={x(points.length - 1) + 8}
-					y={y(total)}
-					dy="0.32em"
-					class="fill-(--text-primary) text-xs font-semibold tabular-nums">{fmtNum(total)}</text
-				>
-			{/if}
+			{/each}
 
 			{#if hover !== null}
 				<line
@@ -160,36 +182,42 @@
 					y2={margin.top + plotH}
 					stroke="var(--text-secondary)"
 				/>
-				<circle
-					cx={x(hover)}
-					cy={y(points[hover].count)}
-					r="4"
-					fill="var(--series-1)"
-					stroke="var(--surface-1)"
-					stroke-width="2"
-				/>
+				{#each visible as s (s.key)}
+					<circle
+						cx={x(hover)}
+						cy={y(value(points[hover], s.key))}
+						r="4"
+						fill={s.color}
+						stroke="var(--surface-1)"
+						stroke-width="2"
+					/>
+				{/each}
 			{/if}
 		</svg>
 
-		{#if hover !== null}
+		{#if hover !== null && visible.length}
 			{@const p = points[hover]}
 			<div
 				class="pointer-events-none absolute top-2 rounded-md border border-(--grid) bg-(--surface-1) px-3 py-2 text-sm shadow-md"
-				style:left="{Math.min(x(hover) + 12, width - 160)}px"
+				style:left="{x(hover) + 220 > width ? x(hover) - 220 : x(hover) + 12}px"
 			>
-				<div class="flex items-center gap-2">
-					<span class="inline-block h-0.5 w-3 rounded bg-(--series-1)"></span>
-					<span class="font-semibold tabular-nums">{fmtNum(p.count)}</span>
-					<span class="text-(--text-secondary)">accounts</span>
-				</div>
-				<div class="text-xs text-(--text-secondary)">by end of {fmtMonth(p.month)}</div>
+				<div class="mb-1 text-xs text-(--text-secondary)">By end of {fmtMonth(p.month)}</div>
+				{#each visible as s (s.key)}
+					<div class="flex items-center gap-2">
+						<span class="inline-block h-0.5 w-3 rounded" style:background={s.color}></span>
+						<span class="w-10 text-right font-semibold tabular-nums">{fmtNum(value(p, s.key))}</span>
+						<span class="text-(--text-secondary)">{s.label}</span>
+					</div>
+				{/each}
 			</div>
 		{/if}
 	</div>
 
 	<div class="mt-4 flex flex-wrap items-center justify-between gap-4 text-sm text-(--text-secondary)">
 		<span>
-			Updated {new Date(data.series.fetchedAt).toLocaleString('en-US')} · refreshes every 10 minutes
+			Live total updated {fmtDate(data.fetchedAt)} · roles from the snapshot of {fmtDate(
+				data.series.snapshotAt
+			)}
 		</span>
 		<button
 			class="rounded-md border border-(--grid) px-3 py-1 hover:bg-(--grid) disabled:opacity-50"
@@ -202,25 +230,48 @@
 
 	<details class="mt-6 text-sm">
 		<summary class="cursor-pointer text-(--text-secondary)">Show data table</summary>
-		<table class="mt-2 tabular-nums">
-			<thead>
-				<tr><th class="pr-6 text-left">Month</th><th class="text-right">Accounts</th></tr>
-			</thead>
-			<tbody>
-				{#each points.toReversed() as p (p.month)}
-					<tr><td class="pr-6">{fmtMonth(p.month)}</td><td class="text-right">{fmtNum(p.count)}</td></tr>
-				{/each}
-			</tbody>
-		</table>
+		<div class="overflow-x-auto">
+			<table class="mt-2 tabular-nums">
+				<thead>
+					<tr>
+						<th class="pr-6 text-left">Month</th>
+						{#each SERIES as s (s.key)}<th class="pr-4 text-right">{s.label}</th>{/each}
+					</tr>
+				</thead>
+				<tbody>
+					{#each points.toReversed() as p (p.month)}
+						<tr>
+							<td class="pr-6">{fmtMonth(p.month)}</td>
+							{#each SERIES as s (s.key)}<td class="pr-4 text-right">{fmtNum(value(p, s.key))}</td>{/each}
+						</tr>
+					{/each}
+				</tbody>
+			</table>
+		</div>
 	</details>
 
-	<footer class="mt-6 text-xs text-(--text-secondary)">
-		Data comes live from the
-		<a class="underline" href="https://info.orcid.org/documentation/api-tutorials/api-tutorial-searching-the-orcid-registry/"
-			>ORCID public search API</a
-		>
-		with the query <code>{QUERY}</code>, counted by account creation date. It includes everyone
-		(faculty, staff and students) who lists the university as a current affiliation on a public
-		ORCID record.
+	<footer class="mt-6 space-y-2 text-xs text-(--text-secondary)">
+		<p>
+			Data comes from the
+			<a
+				class="underline"
+				href="https://info.orcid.org/documentation/api-tutorials/api-tutorial-searching-the-orcid-registry/"
+				>ORCID public API</a
+			>
+			with the query <code>{QUERY}</code>, counted by account creation date. The headline total is
+			live; the breakdown by role comes from a daily snapshot of every matching record.
+		</p>
+		<p>
+			Roles are a best guess. ORCID doesn't record whether someone is faculty or a student, so each
+			account is classified from the role title on its current University of South Alabama
+			employment ("Assistant Professor", "Graduate Student", "Resident Physician", ...), or as a
+			student if it lists only a current USA education. Librarians and physicians count as faculty.
+			Accounts with no role title are guessed from weaker signals (number of works, a completed
+			doctorate, and how recently the ORCID iD was issued): {fmtNum(data.series.inferred.faculty)}
+			faculty and {fmtNum(data.series.inferred.student)} students were classified this way, and
+			{fmtNum(last.byGroup.unknown)} accounts ({pct(last.byGroup.unknown)}) couldn't be classified
+			at all.
+		</p>
+		<p>This software was generated with the assistance of AI tools and may contain mistakes.</p>
 	</footer>
 </main>

@@ -1,69 +1,80 @@
-// Counts of ORCID accounts by creation date, from the public ORCID search API.
-// The search results don't include creation dates, so each point is a
-// `rows=0` range query on `profile-submission-date` that only returns a count.
+// ORCID accounts at the University of South Alabama. Per-account creation dates
+// and roles come from a daily snapshot (scripts/build-accounts.ts); the
+// headline total is counted live from the public ORCID search API.
+
+import snapshot from './data/accounts.json';
+import type { Account } from './classify.ts';
 
 export const QUERY = 'current-institution-affiliation-name:"University of South Alabama"';
 
 const SEARCH_URL = 'https://pub.orcid.org/v3.0/search/';
 // ORCID launched in October 2012
 const FIRST_MONTH = { year: 2012, month: 9 };
-// ORCID's public API allows 24 requests/second
-const CONCURRENCY = 8;
+
+export const GROUPS = ['faculty', 'student', 'staff', 'unknown'] as const;
+export type Group = (typeof GROUPS)[number];
+
+export const GROUP_LABELS: Record<Group, string> = {
+	faculty: 'Faculty',
+	student: 'Students & trainees',
+	staff: 'Staff & postdocs',
+	unknown: 'Unknown'
+};
 
 export interface Point {
-	/** First day of the month, as YYYY-MM */
+	/** YYYY-MM */
 	month: string;
 	/** Accounts created on or before the end of this month */
-	count: number;
+	total: number;
+	byGroup: Record<Group, number>;
 }
 
 export interface Series {
 	points: Point[];
-	total: number;
-	fetchedAt: string;
+	snapshotAt: string;
+	/** How many accounts in each group were classified by weaker signals, not a role title */
+	inferred: Record<Group, number>;
 }
 
-type Fetch = typeof fetch;
-
-/** Number of matching accounts created strictly before `date`. */
-export async function countBefore(date: Date, fetch: Fetch): Promise<number> {
-	const q = `${QUERY} AND profile-submission-date:[* TO ${date.toISOString()}}`;
-	const res = await fetch(`${SEARCH_URL}?rows=0&q=${encodeURIComponent(q)}`, {
-		headers: { Accept: 'application/json' }
-	});
-	if (!res.ok) throw new Error(`ORCID search failed: ${res.status} ${res.statusText}`);
-	const body: { 'num-found': number } = await res.json();
-	return body['num-found'];
+function group(a: Account): Group {
+	return a.role === 'postdoc' ? 'staff' : a.role;
 }
 
-export async function getSeries(fetch: Fetch): Promise<Series> {
+const zero = (): Record<Group, number> => ({ faculty: 0, student: 0, staff: 0, unknown: 0 });
+
+export function getSeries(): Series {
+	const accounts = snapshot.accounts as Account[];
 	const now = new Date();
-	const months: Date[] = [];
+	const points: Point[] = [];
+	const running = zero();
+	let total = 0;
+	let next = 0;
 	for (
 		let d = new Date(Date.UTC(FIRST_MONTH.year, FIRST_MONTH.month, 1));
 		d <= now;
 		d = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth() + 1, 1))
 	) {
-		months.push(d);
-	}
-
-	const counts = new Array<number>(months.length);
-	let next = 0;
-	async function worker() {
-		while (next < months.length) {
-			const i = next++;
-			const m = months[i];
-			counts[i] = await countBefore(
-				new Date(Date.UTC(m.getUTCFullYear(), m.getUTCMonth() + 1, 1)),
-				fetch
-			);
+		const month = d.toISOString().slice(0, 7);
+		// accounts are sorted by creation date
+		while (next < accounts.length && accounts[next].created.slice(0, 7) <= month) {
+			running[group(accounts[next++])]++;
+			total++;
 		}
+		points.push({ month, total, byGroup: { ...running } });
 	}
-	await Promise.all(Array.from({ length: CONCURRENCY }, worker));
 
-	const points = months.map((m, i) => ({
-		month: m.toISOString().slice(0, 7),
-		count: counts[i]
-	}));
-	return { points, total: counts.at(-1) ?? 0, fetchedAt: now.toISOString() };
+	const inferred = zero();
+	for (const a of accounts) if (a.basis === 'inferred') inferred[group(a)]++;
+
+	return { points, snapshotAt: snapshot.fetchedAt, inferred };
+}
+
+/** Live count of all matching accounts, straight from ORCID. */
+export async function liveTotal(fetch: typeof globalThis.fetch): Promise<number> {
+	const res = await fetch(`${SEARCH_URL}?rows=0&q=${encodeURIComponent(QUERY)}`, {
+		headers: { Accept: 'application/json' }
+	});
+	if (!res.ok) throw new Error(`ORCID search failed: ${res.status} ${res.statusText}`);
+	const body: { 'num-found': number } = await res.json();
+	return body['num-found'];
 }

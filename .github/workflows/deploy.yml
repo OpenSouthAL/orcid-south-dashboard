@@ -5,6 +5,9 @@ on:
     branches: [main]
   pull_request:
   workflow_dispatch:
+  # Daily, to refresh the ORCID account snapshot
+  schedule:
+    - cron: '0 6 * * *'
 
 permissions:
   contents: read
@@ -26,6 +29,11 @@ jobs:
           cache: npm
 
       - run: npm ci
+
+      # Refresh the ORCID snapshot; if ORCID is unavailable, deploy the committed one
+      - name: Snapshot ORCID accounts
+        continue-on-error: true
+        run: node scripts/build-accounts.ts
       - run: npm run check
       - run: npm run build
 

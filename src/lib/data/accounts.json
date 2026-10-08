@@ -1,0 +1,6977 @@
+{
+	"fetchedAt": "2026-10-08T20:05:09.677Z",
+	"accounts": [
+		{
+			"orcid": "0000-0002-6534-6577",
+			"created": "2012-11-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor (with tenure) / Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-9048-9230",
+			"created": "2013-02-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-4552-9800",
+			"created": "2013-02-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Department Chair and Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-2684-9534",
+			"created": "2013-03-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-2551-0301",
+			"created": "2013-04-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-6343-7451",
+			"created": "2013-06-24",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6802-6053",
+			"created": "2013-07-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-2730-5878",
+			"created": "2013-07-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate V.P. Academic Affairs and Dean of Graduate Studdies"
+		},
+		{
+			"orcid": "0000-0003-3468-428X",
+			"created": "2013-08-29",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-1347-7097",
+			"created": "2013-09-01",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2987-9800",
+			"created": "2013-09-09",
+			"role": "staff",
+			"basis": "title",
+			"title": "Program Director"
+		},
+		{
+			"orcid": "0000-0001-8659-728X",
+			"created": "2013-09-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Chair and Professor"
+		},
+		{
+			"orcid": "0000-0002-7570-0023",
+			"created": "2013-10-30",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Senior Associate Dean / Professor"
+		},
+		{
+			"orcid": "0000-0001-5450-005X",
+			"created": "2013-10-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "professor"
+		},
+		{
+			"orcid": "0000-0002-6182-7154",
+			"created": "2013-12-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-4384-7899",
+			"created": "2013-12-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-9780-941X",
+			"created": "2013-12-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-1054-5296",
+			"created": "2014-01-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-7326-8986",
+			"created": "2014-01-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-4938-4274",
+			"created": "2014-01-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6559-6472",
+			"created": "2014-01-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-1229-8628",
+			"created": "2014-02-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-4336-9767",
+			"created": "2014-02-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Department Chair"
+		},
+		{
+			"orcid": "0000-0002-8317-0579",
+			"created": "2014-02-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-9746-3030",
+			"created": "2014-03-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor/Joan M. Sinnott Chair"
+		},
+		{
+			"orcid": "0000-0002-2815-1869",
+			"created": "2014-03-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8634-3984",
+			"created": "2014-03-21",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-9226-1109",
+			"created": "2014-04-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-8076-9378",
+			"created": "2014-04-28",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5674-1826",
+			"created": "2014-05-01",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2071-9544",
+			"created": "2014-05-30",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-0970-340X",
+			"created": "2014-05-30",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5942-0099",
+			"created": "2014-06-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-3133-9299",
+			"created": "2014-06-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Researcher"
+		},
+		{
+			"orcid": "0000-0002-5201-3327",
+			"created": "2014-07-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-5853-1010",
+			"created": "2014-07-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-2311-5620",
+			"created": "2014-08-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Department Chair"
+		},
+		{
+			"orcid": "0000-0003-1881-9607",
+			"created": "2014-09-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Full Professor"
+		},
+		{
+			"orcid": "0000-0002-9626-2405",
+			"created": "2014-11-19",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2875-6857",
+			"created": "2014-12-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor of French"
+		},
+		{
+			"orcid": "0000-0003-4360-9871",
+			"created": "2014-12-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6409-0418",
+			"created": "2015-01-22",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-3215-830X",
+			"created": "2015-02-14",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Postdoctoral Fellow"
+		},
+		{
+			"orcid": "0000-0001-7913-8421",
+			"created": "2015-03-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-2644-676X",
+			"created": "2015-03-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-2535-4676",
+			"created": "2015-03-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor / Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-2835-0761",
+			"created": "2015-03-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Asst Professor"
+		},
+		{
+			"orcid": "0000-0003-3727-4454",
+			"created": "2015-03-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-4257-542X",
+			"created": "2015-04-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-9061-991X",
+			"created": "2015-04-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-5797-5082",
+			"created": "2015-05-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Full Professor"
+		},
+		{
+			"orcid": "0000-0003-1139-2356",
+			"created": "2015-05-12",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4814-919X",
+			"created": "2015-06-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-0548-5102",
+			"created": "2015-07-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-6789-7295",
+			"created": "2015-07-13",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7914-6800",
+			"created": "2015-07-18",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9755-0070",
+			"created": "2015-07-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-5144-7484",
+			"created": "2015-07-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-2479-6229",
+			"created": "2015-07-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-2333-2185",
+			"created": "2015-08-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-9207-1636",
+			"created": "2015-08-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6755-3895",
+			"created": "2015-09-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-4720-6295",
+			"created": "2015-09-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Adjunct Instructor"
+		},
+		{
+			"orcid": "0000-0003-1793-4611",
+			"created": "2015-09-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Manager, Research Operations & Chief, Flow Cytometry SRL"
+		},
+		{
+			"orcid": "0000-0001-6542-6422",
+			"created": "2015-10-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-5713-5369",
+			"created": "2015-10-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-2388-2822",
+			"created": "2015-10-20",
+			"role": "staff",
+			"basis": "title",
+			"title": "Assistant Director for Collection Management"
+		},
+		{
+			"orcid": "0000-0002-1714-740X",
+			"created": "2015-10-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Dean"
+		},
+		{
+			"orcid": "0000-0002-7083-6562",
+			"created": "2015-10-27",
+			"role": "staff",
+			"basis": "title",
+			"title": "Information Services/Technology Initiatives"
+		},
+		{
+			"orcid": "0000-0002-7072-4288",
+			"created": "2015-11-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-8200-0327",
+			"created": "2015-11-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Dean of University Libraries"
+		},
+		{
+			"orcid": "0000-0001-8441-9631",
+			"created": "2015-11-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-2739-9667",
+			"created": "2015-11-19",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3610-3223",
+			"created": "2015-11-23",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Postdoctoral Fellow"
+		},
+		{
+			"orcid": "0000-0003-2876-6027",
+			"created": "2015-12-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor Emeritus"
+		},
+		{
+			"orcid": "0000-0002-3148-4971",
+			"created": "2015-12-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-8843-2996",
+			"created": "2016-01-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-0172-7212",
+			"created": "2016-01-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Director / Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-4433-1234",
+			"created": "2016-01-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor, Research"
+		},
+		{
+			"orcid": "0000-0003-4637-1408",
+			"created": "2016-01-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor (full)"
+		},
+		{
+			"orcid": "0000-0003-4841-0095",
+			"created": "2016-01-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-8487-8571",
+			"created": "2016-01-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Chair"
+		},
+		{
+			"orcid": "0000-0001-9949-9013",
+			"created": "2016-01-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-9093-1460",
+			"created": "2016-02-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-0932-6715",
+			"created": "2016-02-21",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Postdoctoral Reseacher"
+		},
+		{
+			"orcid": "0000-0002-7097-7314",
+			"created": "2016-03-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-8717-8888",
+			"created": "2016-03-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-4774-9794",
+			"created": "2016-03-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-9824-9415",
+			"created": "2016-04-07",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5731-4834",
+			"created": "2016-04-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-0530-919X",
+			"created": "2016-04-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-8116-7459",
+			"created": "2016-04-13",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-7460-9412",
+			"created": "2016-04-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-9374-505X",
+			"created": "2016-04-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-6977-5547",
+			"created": "2016-04-30",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor Emeritus"
+		},
+		{
+			"orcid": "0000-0001-9616-6221",
+			"created": "2016-05-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor / Chair"
+		},
+		{
+			"orcid": "0000-0001-9748-7705",
+			"created": "2016-05-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-3393-6038",
+			"created": "2016-05-16",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1398-8604",
+			"created": "2016-05-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-9625-4520",
+			"created": "2016-05-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-2091-7604",
+			"created": "2016-05-31",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-8361-925X",
+			"created": "2016-06-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6339-7226",
+			"created": "2016-06-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-3421-124X",
+			"created": "2016-06-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-5077-048X",
+			"created": "2016-06-18",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0536-2401",
+			"created": "2016-06-30",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-6612-1302",
+			"created": "2016-07-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-4398-6362",
+			"created": "2016-07-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5814-5710",
+			"created": "2016-08-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant professor"
+		},
+		{
+			"orcid": "0000-0002-9201-9950",
+			"created": "2016-08-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Dean"
+		},
+		{
+			"orcid": "0000-0003-4198-4483",
+			"created": "2016-08-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-8569-3517",
+			"created": "2016-08-15",
+			"role": "staff",
+			"basis": "title",
+			"title": "Director"
+		},
+		{
+			"orcid": "0000-0002-9707-975X",
+			"created": "2016-08-25",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1952-3245",
+			"created": "2016-08-26",
+			"role": "staff",
+			"basis": "title",
+			"title": "Physician Assistant"
+		},
+		{
+			"orcid": "0000-0002-6226-4082",
+			"created": "2016-08-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "MFM Section Chief"
+		},
+		{
+			"orcid": "0000-0002-0642-482X",
+			"created": "2016-09-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-4587-6634",
+			"created": "2016-09-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5142-0142",
+			"created": "2016-09-13",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9074-901X",
+			"created": "2016-09-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-3691-4210",
+			"created": "2016-09-29",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1454-1532",
+			"created": "2016-10-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6896-1030",
+			"created": "2016-11-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-2170-6240",
+			"created": "2016-11-16",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8849-9325",
+			"created": "2016-11-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-5588-9060",
+			"created": "2016-11-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3219-413X",
+			"created": "2016-12-05",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0000-0002-0239-2808",
+			"created": "2016-12-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3346-9780",
+			"created": "2016-12-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-0814-6306",
+			"created": "2016-12-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-2277-793X",
+			"created": "2016-12-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Chair"
+		},
+		{
+			"orcid": "0000-0002-7578-6701",
+			"created": "2016-12-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-8253-8688",
+			"created": "2017-01-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-5611-0845",
+			"created": "2017-01-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-1685-9277",
+			"created": "2017-01-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-9240-3824",
+			"created": "2017-02-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-2214-4895",
+			"created": "2017-02-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-5629-0110",
+			"created": "2017-02-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor / ID Division Chief"
+		},
+		{
+			"orcid": "0000-0002-6711-0437",
+			"created": "2017-03-06",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7201-3247",
+			"created": "2017-03-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6358-7580",
+			"created": "2017-03-21",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9779-9909",
+			"created": "2017-03-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-2607-4289",
+			"created": "2017-03-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-9464-5691",
+			"created": "2017-03-28",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-8005-2446",
+			"created": "2017-04-01",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4730-4928",
+			"created": "2017-04-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-5908-5115",
+			"created": "2017-04-10",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Associate"
+		},
+		{
+			"orcid": "0000-0003-2344-7764",
+			"created": "2017-04-18",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5057-3830",
+			"created": "2017-04-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-7245-9000",
+			"created": "2017-05-03",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5151-1551",
+			"created": "2017-05-04",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-0789-2876",
+			"created": "2017-05-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate professor"
+		},
+		{
+			"orcid": "0000-0002-3342-0613",
+			"created": "2017-05-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-7851-1554",
+			"created": "2017-05-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant University Librarian for Collections / Head of Reference & Instruction"
+		},
+		{
+			"orcid": "0000-0002-2220-4368",
+			"created": "2017-05-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0001-6257-3152",
+			"created": "2017-06-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Director & Asst. Professor (Adj.) / Director & Asst. Professor (Adj.)"
+		},
+		{
+			"orcid": "0000-0001-7929-9444",
+			"created": "2017-06-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6936-2857",
+			"created": "2017-06-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Research professor"
+		},
+		{
+			"orcid": "0000-0003-2522-7888",
+			"created": "2017-06-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor & Systems Engineering Program Chair"
+		},
+		{
+			"orcid": "0000-0002-0823-9185",
+			"created": "2017-07-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor, Research Faculty"
+		},
+		{
+			"orcid": "0000-0002-9356-6518",
+			"created": "2017-07-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5544-0287",
+			"created": "2017-07-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Teacher/Adjunct Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-7262-8241",
+			"created": "2017-07-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Interim Associate Dean of Research, Evaluation, and Development / Research Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-1940-6874",
+			"created": "2017-07-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-8421-7156",
+			"created": "2017-07-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assisstant Proffessor of PEdiatrics"
+		},
+		{
+			"orcid": "0000-0002-6526-3640",
+			"created": "2017-07-17",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1183-3684",
+			"created": "2017-07-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6006-2543",
+			"created": "2017-07-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Department Chairperson"
+		},
+		{
+			"orcid": "0000-0002-9226-9693",
+			"created": "2017-08-02",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5771-6494",
+			"created": "2017-08-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-1329-3888",
+			"created": "2017-08-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor / Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-1153-1806",
+			"created": "2017-08-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-9510-0669",
+			"created": "2017-08-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Spanish"
+		},
+		{
+			"orcid": "0000-0003-2713-1396",
+			"created": "2017-08-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-0856-3583",
+			"created": "2017-09-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-7618-7009",
+			"created": "2017-10-06",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1927-7259",
+			"created": "2017-10-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Chair / Adjunct Assistant Professor / Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6687-4064",
+			"created": "2017-11-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Dean for Research, Medicine"
+		},
+		{
+			"orcid": "0000-0003-0878-9969",
+			"created": "2017-11-08",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5266-7470",
+			"created": "2017-11-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-3309-8123",
+			"created": "2017-11-27",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7348-5246",
+			"created": "2017-11-28",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0000-0001-9168-1523",
+			"created": "2017-12-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Philosophy"
+		},
+		{
+			"orcid": "0000-0001-5671-318X",
+			"created": "2017-12-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-0723-282X",
+			"created": "2017-12-19",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-4380-4450",
+			"created": "2017-12-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor & Dual FNP/ENP Program Director"
+		},
+		{
+			"orcid": "0000-0002-2537-0943",
+			"created": "2018-01-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-4418-887X",
+			"created": "2018-01-13",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0540-8633",
+			"created": "2018-01-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Department Chair"
+		},
+		{
+			"orcid": "0000-0003-0085-1596",
+			"created": "2018-02-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-4636-5083",
+			"created": "2018-02-07",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8244-629X",
+			"created": "2018-02-10",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7527-3669",
+			"created": "2018-02-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate professor"
+		},
+		{
+			"orcid": "0000-0002-1129-5161",
+			"created": "2018-02-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-0600-5550",
+			"created": "2018-02-20",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-9527-9363",
+			"created": "2018-03-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-9631-4589",
+			"created": "2018-04-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-8008-7614",
+			"created": "2018-04-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-3898-3316",
+			"created": "2018-04-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3579-8772",
+			"created": "2018-04-12",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-0821-118X",
+			"created": "2018-04-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor-Interim Dept. Chair"
+		},
+		{
+			"orcid": "0000-0003-2837-5608",
+			"created": "2018-04-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-4660-9730",
+			"created": "2018-04-22",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-8527-8049",
+			"created": "2018-04-23",
+			"role": "student",
+			"basis": "title",
+			"title": "Fellow Physician"
+		},
+		{
+			"orcid": "0000-0002-8460-1596",
+			"created": "2018-04-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-2180-4975",
+			"created": "2018-04-24",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-4119-4388",
+			"created": "2018-04-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-2502-6835",
+			"created": "2018-05-15",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1954-2443",
+			"created": "2018-05-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-2634-1677",
+			"created": "2018-06-05",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2279-2817",
+			"created": "2018-06-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-9729-429X",
+			"created": "2018-06-19",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-3753-6357",
+			"created": "2018-06-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-2366-0709",
+			"created": "2018-06-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Dean for Academic Affairs / Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-1937-8949",
+			"created": "2018-06-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3927-9881",
+			"created": "2018-07-07",
+			"role": "staff",
+			"basis": "title",
+			"title": "Assistant Director for Strategic Initiatives"
+		},
+		{
+			"orcid": "0000-0001-8464-656X",
+			"created": "2018-07-10",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0000-0002-3430-530X",
+			"created": "2018-08-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor emeritus"
+		},
+		{
+			"orcid": "0000-0001-6770-2232",
+			"created": "2018-08-09",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1368-5219",
+			"created": "2018-08-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5078-0154",
+			"created": "2018-08-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-5904-1251",
+			"created": "2018-08-25",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6708-6548",
+			"created": "2018-08-29",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Science Education"
+		},
+		{
+			"orcid": "0000-0002-4807-0804",
+			"created": "2018-08-31",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1415-484X",
+			"created": "2018-09-03",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8861-4397",
+			"created": "2018-09-20",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5926-2249",
+			"created": "2018-09-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-1634-3828",
+			"created": "2018-10-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Emeritus Professor"
+		},
+		{
+			"orcid": "0000-0001-5503-9007",
+			"created": "2018-10-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5624-3747",
+			"created": "2018-10-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6647-9075",
+			"created": "2018-10-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6673-0055",
+			"created": "2018-10-30",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Post Doctoral Fellow"
+		},
+		{
+			"orcid": "0000-0001-6614-9789",
+			"created": "2018-11-05",
+			"role": "staff",
+			"basis": "title",
+			"title": "Assistant Vice President of Research Communications, Development, & Learning / Director of Research Development / Assistant Director of Research Development"
+		},
+		{
+			"orcid": "0000-0002-5719-901X",
+			"created": "2018-11-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "DNP Director & Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-3678-5615",
+			"created": "2018-11-20",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9946-5187",
+			"created": "2018-11-23",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-9211-2162",
+			"created": "2018-11-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6570-9879",
+			"created": "2018-11-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-8653-2141",
+			"created": "2018-12-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor; Director of Special Projects and Evaluation"
+		},
+		{
+			"orcid": "0000-0002-2857-0940",
+			"created": "2018-12-06",
+			"role": "student",
+			"basis": "title",
+			"title": "Predoctoral Fellow/PhD Candidate"
+		},
+		{
+			"orcid": "0000-0002-2975-475X",
+			"created": "2018-12-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Social Sciences Librarian"
+		},
+		{
+			"orcid": "0000-0001-9880-5971",
+			"created": "2018-12-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-0008-9968",
+			"created": "2018-12-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Emeritus Professor"
+		},
+		{
+			"orcid": "0000-0003-3706-2830",
+			"created": "2019-01-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0000-0002-1476-1682",
+			"created": "2019-01-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-4135-6516",
+			"created": "2019-01-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Research Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-2883-0228",
+			"created": "2019-01-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-4887-6066",
+			"created": "2019-01-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-4723-1888",
+			"created": "2019-01-29",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1182-6540",
+			"created": "2019-02-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-0464-5880",
+			"created": "2019-02-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5819-9663",
+			"created": "2019-02-20",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-3562-5620",
+			"created": "2019-03-03",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9199-9707",
+			"created": "2019-03-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Senior Librarian, Assistant University Librarian for Collections"
+		},
+		{
+			"orcid": "0000-0003-2802-2730",
+			"created": "2019-03-15",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-4209-8777",
+			"created": "2019-03-22",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5762-5034",
+			"created": "2019-03-27",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-7455-081X",
+			"created": "2019-03-29",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-0230-7068",
+			"created": "2019-04-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-1720-761X",
+			"created": "2019-04-22",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2055-4927",
+			"created": "2019-05-06",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor of Medicine"
+		},
+		{
+			"orcid": "0000-0002-0950-3048",
+			"created": "2019-05-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-4770-9944",
+			"created": "2019-05-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Director"
+		},
+		{
+			"orcid": "0000-0002-8768-7073",
+			"created": "2019-05-22",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-9364-3907",
+			"created": "2019-05-22",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-6394-5955",
+			"created": "2019-05-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-7778-1381",
+			"created": "2019-05-28",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-3455-3346",
+			"created": "2019-06-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6124-9879",
+			"created": "2019-06-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Chair"
+		},
+		{
+			"orcid": "0000-0003-2949-3622",
+			"created": "2019-06-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-2726-1118",
+			"created": "2019-07-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-7272-6802",
+			"created": "2019-07-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6768-7017",
+			"created": "2019-07-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6374-6473",
+			"created": "2019-07-19",
+			"role": "staff",
+			"basis": "title",
+			"title": "Financial Oper Specialist"
+		},
+		{
+			"orcid": "0000-0001-7195-2955",
+			"created": "2019-07-31",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-7279-7800",
+			"created": "2019-08-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-4631-6129",
+			"created": "2019-08-05",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-6771-8055",
+			"created": "2019-08-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Pathologist"
+		},
+		{
+			"orcid": "0000-0003-1907-3894",
+			"created": "2019-08-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6920-2618",
+			"created": "2019-08-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-5389-0957",
+			"created": "2019-09-27",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0000-0002-0277-8348",
+			"created": "2019-09-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Interim Chair"
+		},
+		{
+			"orcid": "0000-0002-8726-154X",
+			"created": "2019-10-02",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2714-586X",
+			"created": "2019-10-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-0316-4217",
+			"created": "2019-10-04",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6167-9203",
+			"created": "2019-10-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Anthropology"
+		},
+		{
+			"orcid": "0000-0002-4619-7027",
+			"created": "2019-10-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Visiting Professor"
+		},
+		{
+			"orcid": "0000-0001-9891-9768",
+			"created": "2019-10-14",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7902-4571",
+			"created": "2019-10-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6151-2008",
+			"created": "2019-10-24",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-4852-4570",
+			"created": "2019-11-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-7881-232X",
+			"created": "2019-11-08",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0000-0003-0950-1701",
+			"created": "2019-11-13",
+			"role": "staff",
+			"basis": "title",
+			"title": "Associate Director"
+		},
+		{
+			"orcid": "0000-0002-1561-9522",
+			"created": "2019-11-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-3793-0960",
+			"created": "2019-11-23",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5013-5219",
+			"created": "2019-12-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6555-4088",
+			"created": "2019-12-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-1343-6447",
+			"created": "2019-12-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-1617-6743",
+			"created": "2019-12-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2861-9529",
+			"created": "2020-01-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-6384-847X",
+			"created": "2020-01-10",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Postdoctoral Research Fellow"
+		},
+		{
+			"orcid": "0000-0001-8391-6054",
+			"created": "2020-01-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Research Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-3565-7953",
+			"created": "2020-01-10",
+			"role": "staff",
+			"basis": "title",
+			"title": "Director"
+		},
+		{
+			"orcid": "0000-0001-5516-8896",
+			"created": "2020-01-18",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6855-3590",
+			"created": "2020-01-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6653-5671",
+			"created": "2020-01-22",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5250-5500",
+			"created": "2020-01-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-7563-6009",
+			"created": "2020-01-27",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3731-5893",
+			"created": "2020-02-01",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5642-5580",
+			"created": "2020-02-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8998-5878",
+			"created": "2020-02-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-0517-6649",
+			"created": "2020-02-17",
+			"role": "staff",
+			"basis": "title",
+			"title": "Director"
+		},
+		{
+			"orcid": "0000-0001-8889-6603",
+			"created": "2020-02-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-6431-0583",
+			"created": "2020-03-06",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-8363-0598",
+			"created": "2020-03-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-7127-8136",
+			"created": "2020-03-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8537-6100",
+			"created": "2020-03-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-9120-5479",
+			"created": "2020-03-28",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7747-3832",
+			"created": "2020-04-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-2755-8229",
+			"created": "2020-04-02",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2233-7611",
+			"created": "2020-04-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-3697-438X",
+			"created": "2020-04-04",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2761-4320",
+			"created": "2020-04-12",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8767-3352",
+			"created": "2020-04-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-3877-092X",
+			"created": "2020-04-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Exercise Science"
+		},
+		{
+			"orcid": "0000-0002-4391-8124",
+			"created": "2020-04-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6899-5919",
+			"created": "2020-04-29",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3516-8877",
+			"created": "2020-04-29",
+			"role": "faculty",
+			"basis": "title",
+			"title": "MD, Professor"
+		},
+		{
+			"orcid": "0000-0002-4451-1414",
+			"created": "2020-04-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0000-0003-4764-1844",
+			"created": "2020-05-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-7070-5538",
+			"created": "2020-05-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-3762-9497",
+			"created": "2020-05-13",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5750-6948",
+			"created": "2020-05-14",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5854-4823",
+			"created": "2020-05-14",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0000-0002-0259-918X",
+			"created": "2020-05-15",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5096-9376",
+			"created": "2020-05-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Clinical Interdisciplinary Oncology"
+		},
+		{
+			"orcid": "0000-0002-9082-0373",
+			"created": "2020-05-18",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-3518-110X",
+			"created": "2020-05-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Dean of Engineering"
+		},
+		{
+			"orcid": "0000-0003-3650-6946",
+			"created": "2020-05-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Information Services/Outreach Librarian"
+		},
+		{
+			"orcid": "0000-0003-3738-1428",
+			"created": "2020-05-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-5348-0421",
+			"created": "2020-05-29",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-6468-4646",
+			"created": "2020-05-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0000-0001-6146-4042",
+			"created": "2020-06-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-4109-0546",
+			"created": "2020-06-09",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0000-0002-5607-6990",
+			"created": "2020-06-10",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-8445-5808",
+			"created": "2020-06-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant professor of Pediatric Nephrology"
+		},
+		{
+			"orcid": "0000-0003-0719-2642",
+			"created": "2020-06-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0263-7588",
+			"created": "2020-06-19",
+			"role": "staff",
+			"basis": "title",
+			"title": "PASSAGE USA Student Employment Coordinator"
+		},
+		{
+			"orcid": "0000-0002-1308-5942",
+			"created": "2020-06-29",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-1078-5860",
+			"created": "2020-06-29",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7932-016X",
+			"created": "2020-07-03",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8428-698X",
+			"created": "2020-07-04",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7591-6097",
+			"created": "2020-07-19",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1850-498X",
+			"created": "2020-07-20",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2199-9960",
+			"created": "2020-07-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Adjunct Professor"
+		},
+		{
+			"orcid": "0000-0002-2895-7520",
+			"created": "2020-07-26",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0932-8470",
+			"created": "2020-07-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-9594-6488",
+			"created": "2020-07-29",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-0649-3187",
+			"created": "2020-08-02",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2791-3179",
+			"created": "2020-08-03",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7172-7029",
+			"created": "2020-08-10",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1344-8272",
+			"created": "2020-08-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-1825-8961",
+			"created": "2020-08-12",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-9247-3005",
+			"created": "2020-08-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-4433-1456",
+			"created": "2020-08-19",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3455-782X",
+			"created": "2020-08-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-8652-1306",
+			"created": "2020-09-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Faculty Pathologists’ Assistant"
+		},
+		{
+			"orcid": "0000-0003-3404-7264",
+			"created": "2020-09-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Philosophy"
+		},
+		{
+			"orcid": "0000-0002-2996-6234",
+			"created": "2020-09-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Physician - Clinical Asst Professor Medical Education"
+		},
+		{
+			"orcid": "0000-0002-1573-5494",
+			"created": "2020-09-19",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5781-3075",
+			"created": "2020-09-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8241-5872",
+			"created": "2020-10-12",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Post-doctoral fellow"
+		},
+		{
+			"orcid": "0000-0001-6422-4909",
+			"created": "2020-10-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0000-0001-6011-3056",
+			"created": "2020-10-21",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8954-2591",
+			"created": "2020-10-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0000-0002-9434-1396",
+			"created": "2020-10-21",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4457-2505",
+			"created": "2020-10-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Dean, Institutional and Academic Success"
+		},
+		{
+			"orcid": "0000-0002-0954-6611",
+			"created": "2020-10-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-4960-4388",
+			"created": "2020-10-30",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-7407-4403",
+			"created": "2020-11-05",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-9209-9527",
+			"created": "2020-11-15",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5972-751X",
+			"created": "2020-11-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1222-6141",
+			"created": "2020-11-17",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-6880-0894",
+			"created": "2020-11-17",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Postdoctoral Fellow"
+		},
+		{
+			"orcid": "0000-0002-4457-1652",
+			"created": "2020-11-30",
+			"role": "staff",
+			"basis": "title",
+			"title": "LVT & RALAT"
+		},
+		{
+			"orcid": "0000-0002-8669-0393",
+			"created": "2020-12-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-0142-4369",
+			"created": "2020-12-08",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-6020-1205",
+			"created": "2020-12-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Research Associate and Instructor"
+		},
+		{
+			"orcid": "0000-0003-2220-9991",
+			"created": "2020-12-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Statistics"
+		},
+		{
+			"orcid": "0000-0001-9728-1192",
+			"created": "2020-12-24",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9334-1300",
+			"created": "2021-01-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0000-0002-0578-0427",
+			"created": "2021-01-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6168-0076",
+			"created": "2021-01-26",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1570-898X",
+			"created": "2021-02-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Sociology and Social Work"
+		},
+		{
+			"orcid": "0000-0003-1646-9252",
+			"created": "2021-02-26",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5936-2194",
+			"created": "2021-03-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Chair"
+		},
+		{
+			"orcid": "0000-0001-5268-9901",
+			"created": "2021-03-08",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1374-3060",
+			"created": "2021-03-11",
+			"role": "staff",
+			"basis": "title",
+			"title": "Project Coordinator"
+		},
+		{
+			"orcid": "0000-0001-9596-6497",
+			"created": "2021-03-31",
+			"role": "staff",
+			"basis": "title",
+			"title": "Manager, Bioimaging Core Facility"
+		},
+		{
+			"orcid": "0000-0001-9401-1656",
+			"created": "2021-04-03",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5083-0529",
+			"created": "2021-04-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-2134-864X",
+			"created": "2021-04-05",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-3535-3362",
+			"created": "2021-04-15",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Manager"
+		},
+		{
+			"orcid": "0000-0001-6797-9346",
+			"created": "2021-04-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-5669-8872",
+			"created": "2021-04-22",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-7956-0531",
+			"created": "2021-04-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Political Science"
+		},
+		{
+			"orcid": "0000-0002-0615-4217",
+			"created": "2021-04-28",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research and Teaching Assistant (Doctoral)"
+		},
+		{
+			"orcid": "0000-0002-9764-9767",
+			"created": "2021-04-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0000-0001-5493-0199",
+			"created": "2021-05-01",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Associate-II"
+		},
+		{
+			"orcid": "0000-0001-7143-8278",
+			"created": "2021-05-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-4369-8459",
+			"created": "2021-05-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Librarian"
+		},
+		{
+			"orcid": "0000-0002-3150-0855",
+			"created": "2021-05-11",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1977-7314",
+			"created": "2021-05-18",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4157-6148",
+			"created": "2021-05-24",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8901-5951",
+			"created": "2021-06-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0000-0003-0995-0283",
+			"created": "2021-06-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-4323-1397",
+			"created": "2021-06-14",
+			"role": "staff",
+			"basis": "title",
+			"title": "Senior Laboratory Manager"
+		},
+		{
+			"orcid": "0000-0002-9358-2622",
+			"created": "2021-06-15",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0274-5220",
+			"created": "2021-06-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-3443-0247",
+			"created": "2021-06-18",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6805-7925",
+			"created": "2021-06-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1126-8427",
+			"created": "2021-07-12",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5525-5172",
+			"created": "2021-07-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Library Media"
+		},
+		{
+			"orcid": "0000-0001-7391-6819",
+			"created": "2021-07-26",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0850-2641",
+			"created": "2021-07-26",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6001-2618",
+			"created": "2021-07-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0001-5987-2434",
+			"created": "2021-08-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor Emeritus"
+		},
+		{
+			"orcid": "0000-0002-5764-0741",
+			"created": "2021-08-12",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7302-3084",
+			"created": "2021-08-13",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-9368-3792",
+			"created": "2021-08-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Pediatrics"
+		},
+		{
+			"orcid": "0000-0001-6696-6367",
+			"created": "2021-09-08",
+			"role": "student",
+			"basis": "title",
+			"title": "Chief fellow"
+		},
+		{
+			"orcid": "0000-0001-8067-6243",
+			"created": "2021-09-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0267-8355",
+			"created": "2021-09-29",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Trauma Acute Care Surgeon"
+		},
+		{
+			"orcid": "0000-0002-2582-5944",
+			"created": "2021-10-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6728-6259",
+			"created": "2021-10-12",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2460-3901",
+			"created": "2021-10-18",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4986-833X",
+			"created": "2021-10-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-8864-2715",
+			"created": "2021-10-26",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8749-4880",
+			"created": "2021-11-01",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-2190-8344",
+			"created": "2021-11-06",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1352-2097",
+			"created": "2021-11-10",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5212-2902",
+			"created": "2021-11-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-6208-0849",
+			"created": "2021-11-22",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-9308-7376",
+			"created": "2021-12-02",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-9290-7763",
+			"created": "2021-12-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0000-0003-0075-119X",
+			"created": "2021-12-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Chief, Division of Trauma, Acute Care Surgery & Burns"
+		},
+		{
+			"orcid": "0000-0001-8736-3063",
+			"created": "2022-01-10",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-5810-8717",
+			"created": "2022-01-17",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-6339-8445",
+			"created": "2022-01-21",
+			"role": "staff",
+			"basis": "title",
+			"title": "Director of Data Administration and Strategic Initiatives"
+		},
+		{
+			"orcid": "0000-0001-8337-7273",
+			"created": "2022-02-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0000-0002-4561-2225",
+			"created": "2022-02-01",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-7148-600X",
+			"created": "2022-02-02",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-1631-2052",
+			"created": "2022-02-28",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2034-9918",
+			"created": "2022-03-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-3137-8650",
+			"created": "2022-03-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0003-0576-3325",
+			"created": "2022-03-11",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-0651-4734",
+			"created": "2022-03-14",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0000-0002-2030-4373",
+			"created": "2022-03-23",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4580-4910",
+			"created": "2022-03-30",
+			"role": "postdoc",
+			"basis": "title",
+			"title": "Postdoctoral Researcher"
+		},
+		{
+			"orcid": "0000-0003-0284-0030",
+			"created": "2022-04-01",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0003-4543-7815",
+			"created": "2022-04-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0000-0003-0172-7888",
+			"created": "2022-04-11",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0000-0002-9841-2374",
+			"created": "2022-04-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate student"
+		},
+		{
+			"orcid": "0000-0003-3990-4253",
+			"created": "2022-05-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor/Director"
+		},
+		{
+			"orcid": "0000-0002-9711-9299",
+			"created": "2022-05-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-9406-5643",
+			"created": "2022-05-31",
+			"role": "student",
+			"basis": "title",
+			"title": "REsident"
+		},
+		{
+			"orcid": "0000-0003-0666-7730",
+			"created": "2022-06-07",
+			"role": "staff",
+			"basis": "title",
+			"title": "Second Year Experience Coordinator"
+		},
+		{
+			"orcid": "0000-0002-4680-8051",
+			"created": "2022-06-10",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8986-1277",
+			"created": "2022-06-14",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-3507-7257",
+			"created": "2022-07-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-5035-1333",
+			"created": "2022-07-29",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Technologist"
+		},
+		{
+			"orcid": "0000-0003-4279-8068",
+			"created": "2022-08-15",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-5009-6843",
+			"created": "2022-08-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0000-0002-3834-3047",
+			"created": "2022-08-22",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0000-0001-7096-3329",
+			"created": "2022-09-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0001-9719-7126",
+			"created": "2022-09-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "physician"
+		},
+		{
+			"orcid": "0000-0003-3241-8746",
+			"created": "2022-09-21",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-6867-4296",
+			"created": "2022-10-05",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0571-8340",
+			"created": "2022-10-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-1484-1228",
+			"created": "2022-10-30",
+			"role": "staff",
+			"basis": "title",
+			"title": "Medical Director of Sports Medicine"
+		},
+		{
+			"orcid": "0000-0003-4144-601X",
+			"created": "2022-10-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0002-5242-0176",
+			"created": "2022-11-14",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0001-8298-8486",
+			"created": "2022-11-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-4968-8534",
+			"created": "2022-11-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0000-0002-9596-0121",
+			"created": "2022-12-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Physician"
+		},
+		{
+			"orcid": "0000-0001-9834-1919",
+			"created": "2022-12-30",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-0248-9183",
+			"created": "2023-01-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0000-0002-2672-9129",
+			"created": "2023-01-02",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD student"
+		},
+		{
+			"orcid": "0000-0003-2780-5004",
+			"created": "2023-01-17",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-8135-5422",
+			"created": "2023-01-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0000-0002-8271-532X",
+			"created": "2023-02-02",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0000-0003-4847-5817",
+			"created": "2023-02-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Residency Program Director/ Assistant Professor"
+		},
+		{
+			"orcid": "0000-0003-4259-8242",
+			"created": "2023-02-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-2389-9042",
+			"created": "2023-02-08",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0000-0002-4934-7879",
+			"created": "2023-02-10",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0000-0001-8298-7619",
+			"created": "2023-02-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-5775-037X",
+			"created": "2023-03-10",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0009-0004-5914-6300",
+			"created": "2023-04-07",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-5614-1999",
+			"created": "2023-04-10",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-9435-9108",
+			"created": "2023-04-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Reading Education"
+		},
+		{
+			"orcid": "0009-0007-2611-9842",
+			"created": "2023-05-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-0385-0737",
+			"created": "2023-05-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0001-4578-7412",
+			"created": "2023-05-24",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-7067-4048",
+			"created": "2023-06-02",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Associate"
+		},
+		{
+			"orcid": "0009-0007-9183-4420",
+			"created": "2023-06-20",
+			"role": "staff",
+			"basis": "title",
+			"title": "Researcher"
+		},
+		{
+			"orcid": "0009-0001-6869-6740",
+			"created": "2023-06-22",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-2215-6914",
+			"created": "2023-06-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-3675-7409",
+			"created": "2023-07-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0009-0004-6654-9730",
+			"created": "2023-07-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0008-0328-1078",
+			"created": "2023-07-20",
+			"role": "staff",
+			"basis": "title",
+			"title": "Clinical Pharmacist - Antimicrobial Stewardship/Infectious Diseases"
+		},
+		{
+			"orcid": "0009-0007-5037-1706",
+			"created": "2023-07-25",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-0996-2750",
+			"created": "2023-07-27",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Candidate"
+		},
+		{
+			"orcid": "0009-0004-6416-6488",
+			"created": "2023-07-31",
+			"role": "student",
+			"basis": "title",
+			"title": "PGY-3"
+		},
+		{
+			"orcid": "0009-0009-9229-7107",
+			"created": "2023-08-02",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-5380-6663",
+			"created": "2023-08-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Instruction"
+		},
+		{
+			"orcid": "0009-0002-0957-832X",
+			"created": "2023-08-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Student Research Assistant"
+		},
+		{
+			"orcid": "0009-0002-7159-2704",
+			"created": "2023-08-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Political Science"
+		},
+		{
+			"orcid": "0009-0006-8641-2461",
+			"created": "2023-08-07",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-4329-9534",
+			"created": "2023-08-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-9839-6318",
+			"created": "2023-08-30",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0009-7563-5354",
+			"created": "2023-08-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-6546-3837",
+			"created": "2023-09-11",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-7325-3551",
+			"created": "2023-09-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0007-8607-6653",
+			"created": "2023-09-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0007-1156-0504",
+			"created": "2023-09-22",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0006-9529-1403",
+			"created": "2023-09-25",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-1271-7351",
+			"created": "2023-09-28",
+			"role": "student",
+			"basis": "title",
+			"title": "Student/Research Assistant"
+		},
+		{
+			"orcid": "0009-0003-6169-1482",
+			"created": "2023-10-09",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-8893-6768",
+			"created": "2023-10-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Adjunct Professor"
+		},
+		{
+			"orcid": "0009-0008-8395-5780",
+			"created": "2023-10-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Statistics"
+		},
+		{
+			"orcid": "0009-0002-4844-042X",
+			"created": "2023-10-26",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Candidate"
+		},
+		{
+			"orcid": "0009-0006-7183-0572",
+			"created": "2023-11-02",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-2059-3832",
+			"created": "2023-11-16",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-9158-820X",
+			"created": "2023-11-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Fellow"
+		},
+		{
+			"orcid": "0009-0007-0063-1979",
+			"created": "2023-11-16",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0096-8130",
+			"created": "2023-11-22",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-8241-9148",
+			"created": "2023-11-29",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-9216-0324",
+			"created": "2023-12-18",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-6706-348X",
+			"created": "2023-12-18",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Project Coordinator"
+		},
+		{
+			"orcid": "0009-0008-5211-898X",
+			"created": "2023-12-25",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-7935-2452",
+			"created": "2023-12-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0005-9577-140X",
+			"created": "2024-01-02",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-6247-9886",
+			"created": "2024-01-04",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0038-0724",
+			"created": "2024-01-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0004-2606-2143",
+			"created": "2024-01-10",
+			"role": "student",
+			"basis": "title",
+			"title": "Environment & Society PhD Student"
+		},
+		{
+			"orcid": "0009-0005-0679-6753",
+			"created": "2024-01-30",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-2405-3120",
+			"created": "2024-02-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0007-8824-1974",
+			"created": "2024-02-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0009-0001-0640-1054",
+			"created": "2024-02-25",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0003-2596-317X",
+			"created": "2024-02-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student/Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0006-0480-4905",
+			"created": "2024-02-27",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-6124-6571",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-5301-3564",
+			"created": "2024-02-29",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-6445-3848",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-8139-3065",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-1522-2767",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0006-8577-1454",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate student"
+		},
+		{
+			"orcid": "0009-0007-0341-7599",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-7592-1668",
+			"created": "2024-02-29",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0002-7141-8423",
+			"created": "2024-03-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate student"
+		},
+		{
+			"orcid": "0009-0006-4290-080X",
+			"created": "2024-03-01",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0794-844X",
+			"created": "2024-03-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0003-1798-2127",
+			"created": "2024-03-02",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0000-2451-424X",
+			"created": "2024-03-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Pediatric Hospitalist"
+		},
+		{
+			"orcid": "0009-0001-9249-2932",
+			"created": "2024-03-04",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0003-8759-8702",
+			"created": "2024-03-04",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0008-1686-9102",
+			"created": "2024-03-04",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0000-4287-9875",
+			"created": "2024-03-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral Student"
+		},
+		{
+			"orcid": "0009-0001-4142-6783",
+			"created": "2024-03-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0009-5723-2586",
+			"created": "2024-03-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Ph.D. Candidate"
+		},
+		{
+			"orcid": "0009-0001-3047-2637",
+			"created": "2024-03-21",
+			"role": "staff",
+			"basis": "title",
+			"title": "Learning Technology Specialist"
+		},
+		{
+			"orcid": "0009-0008-8180-9851",
+			"created": "2024-03-29",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-4982-5104",
+			"created": "2024-04-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor of Music History"
+		},
+		{
+			"orcid": "0009-0006-6958-910X",
+			"created": "2024-04-01",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Tech. II"
+		},
+		{
+			"orcid": "0009-0005-5119-3273",
+			"created": "2024-04-02",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-2748-1844",
+			"created": "2024-04-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-6554-8707",
+			"created": "2024-04-20",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0001-5310-014X",
+			"created": "2024-04-23",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0003-1595-9089",
+			"created": "2024-04-24",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-5829-0934",
+			"created": "2024-04-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Secondary Mathematics Graduate Student"
+		},
+		{
+			"orcid": "0009-0008-9370-4619",
+			"created": "2024-04-30",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Candidate"
+		},
+		{
+			"orcid": "0009-0000-2835-1513",
+			"created": "2024-05-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0006-0803-5867",
+			"created": "2024-05-03",
+			"role": "student",
+			"basis": "title",
+			"title": "Ph.D. Candidate"
+		},
+		{
+			"orcid": "0009-0008-0566-1496",
+			"created": "2024-05-08",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0001-6017-6900",
+			"created": "2024-05-09",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-4148-9588",
+			"created": "2024-05-09",
+			"role": "staff",
+			"basis": "title",
+			"title": "Medical Director of the Pediatric Residency Clinic"
+		},
+		{
+			"orcid": "0009-0005-3160-4100",
+			"created": "2024-05-13",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0007-2278-2073",
+			"created": "2024-05-14",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-6973-8383",
+			"created": "2024-05-19",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-9112-7785",
+			"created": "2024-05-20",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-2810-7869",
+			"created": "2024-05-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Vice Chair"
+		},
+		{
+			"orcid": "0009-0009-6294-3999",
+			"created": "2024-05-28",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-6726-9074",
+			"created": "2024-05-31",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-1615-7714",
+			"created": "2024-06-05",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-5251-8254",
+			"created": "2024-06-06",
+			"role": "staff",
+			"basis": "title",
+			"title": "College of Medicine/Mitchell Cancer Institute Research Portfolio Specialist II"
+		},
+		{
+			"orcid": "0009-0002-4687-8057",
+			"created": "2024-06-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Retired Instructor"
+		},
+		{
+			"orcid": "0009-0001-7545-6788",
+			"created": "2024-06-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0001-6503-6157",
+			"created": "2024-06-12",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Technician II"
+		},
+		{
+			"orcid": "0009-0007-4361-0369",
+			"created": "2024-06-12",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-5587-1661",
+			"created": "2024-06-14",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-1115-0176",
+			"created": "2024-06-17",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-1812-6767",
+			"created": "2024-06-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0009-5987-3168",
+			"created": "2024-06-28",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-8871-5881",
+			"created": "2024-07-09",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0008-5492-2883",
+			"created": "2024-07-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-0295-9314",
+			"created": "2024-07-18",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-9344-3742",
+			"created": "2024-07-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Acquisitions Librarian"
+		},
+		{
+			"orcid": "0009-0005-5765-7219",
+			"created": "2024-07-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0009-3782-4947",
+			"created": "2024-07-24",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-2768-1649",
+			"created": "2024-07-25",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0006-7093-6199",
+			"created": "2024-07-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0009-0007-4627-1630",
+			"created": "2024-07-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0006-0622-9684",
+			"created": "2024-07-27",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0004-8803-0657",
+			"created": "2024-07-29",
+			"role": "student",
+			"basis": "title",
+			"title": "grad student"
+		},
+		{
+			"orcid": "0009-0008-2796-9184",
+			"created": "2024-07-29",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral Student"
+		},
+		{
+			"orcid": "0009-0004-6059-2228",
+			"created": "2024-07-31",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor Emeritus"
+		},
+		{
+			"orcid": "0009-0005-8638-3210",
+			"created": "2024-08-01",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-6226-2925",
+			"created": "2024-08-02",
+			"role": "staff",
+			"basis": "title",
+			"title": "Responsible Conduct of Research"
+		},
+		{
+			"orcid": "0009-0005-0914-6617",
+			"created": "2024-08-04",
+			"role": "student",
+			"basis": "title",
+			"title": "student"
+		},
+		{
+			"orcid": "0009-0004-0895-5562",
+			"created": "2024-08-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0002-0090-8193",
+			"created": "2024-08-06",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-8346-7169",
+			"created": "2024-08-06",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0009-7895-1475",
+			"created": "2024-08-06",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0004-2072-2315",
+			"created": "2024-08-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Senior Librarian, Instruction Coordinator Librarian"
+		},
+		{
+			"orcid": "0009-0007-0826-6259",
+			"created": "2024-08-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident"
+		},
+		{
+			"orcid": "0009-0008-4981-7755",
+			"created": "2024-08-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0000-1499-303X",
+			"created": "2024-08-19",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-6978-7715",
+			"created": "2024-08-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0002-0174-7125",
+			"created": "2024-08-20",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-5017-3057",
+			"created": "2024-08-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0009-1075-6155",
+			"created": "2024-08-23",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-6191-5807",
+			"created": "2024-08-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student/Graduate Assistant"
+		},
+		{
+			"orcid": "0009-0008-4391-0000",
+			"created": "2024-08-26",
+			"role": "student",
+			"basis": "title",
+			"title": "MS Student"
+		},
+		{
+			"orcid": "0009-0009-7899-7078",
+			"created": "2024-08-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Physician"
+		},
+		{
+			"orcid": "0009-0002-2548-2029",
+			"created": "2024-08-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Librarian"
+		},
+		{
+			"orcid": "0009-0000-0732-7178",
+			"created": "2024-08-28",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Candidate"
+		},
+		{
+			"orcid": "0009-0005-4838-2444",
+			"created": "2024-09-03",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-5856-636X",
+			"created": "2024-09-03",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-2939-8757",
+			"created": "2024-09-03",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-4204-6000",
+			"created": "2024-09-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor, Developmental Behavioral Pediatrics"
+		},
+		{
+			"orcid": "0009-0003-3130-9828",
+			"created": "2024-09-04",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0008-2233-434X",
+			"created": "2024-09-12",
+			"role": "staff",
+			"basis": "title",
+			"title": "Senior Analyst"
+		},
+		{
+			"orcid": "0009-0008-5373-2164",
+			"created": "2024-09-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0000-8652-921X",
+			"created": "2024-09-13",
+			"role": "staff",
+			"basis": "title",
+			"title": "Transfer Center Supervisor"
+		},
+		{
+			"orcid": "0009-0000-9271-4120",
+			"created": "2024-09-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-8888-5610",
+			"created": "2024-09-23",
+			"role": "student",
+			"basis": "title",
+			"title": "student"
+		},
+		{
+			"orcid": "0009-0003-4396-4416",
+			"created": "2024-09-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Physician"
+		},
+		{
+			"orcid": "0009-0007-3154-1386",
+			"created": "2024-09-23",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-7654-3231",
+			"created": "2024-09-24",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0009-0001-6835-6666",
+			"created": "2024-10-01",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-5328-1087",
+			"created": "2024-10-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor Emerius"
+		},
+		{
+			"orcid": "0009-0008-5481-8410",
+			"created": "2024-10-01",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-4878-8442",
+			"created": "2024-10-06",
+			"role": "student",
+			"basis": "title",
+			"title": "2nd Year Medical Student"
+		},
+		{
+			"orcid": "0009-0006-4345-1188",
+			"created": "2024-10-06",
+			"role": "student",
+			"basis": "title",
+			"title": "Student Physician"
+		},
+		{
+			"orcid": "0009-0001-4901-0918",
+			"created": "2024-10-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0003-6017-7895",
+			"created": "2024-10-07",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-8374-6843",
+			"created": "2024-10-10",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-2228-9515",
+			"created": "2024-10-10",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Technologist"
+		},
+		{
+			"orcid": "0009-0005-6334-4235",
+			"created": "2024-10-13",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-0013-1196",
+			"created": "2024-10-14",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0000-1698-6618",
+			"created": "2024-10-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Director and Business Librarian"
+		},
+		{
+			"orcid": "0009-0001-2714-144X",
+			"created": "2024-10-23",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-5562-1764",
+			"created": "2024-10-23",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-4570-8729",
+			"created": "2024-10-24",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0006-8504-5823",
+			"created": "2024-10-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0009-0002-1584-7880",
+			"created": "2024-10-26",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0009-0009-2274-002X",
+			"created": "2024-11-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0002-0010-2667",
+			"created": "2024-11-07",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-8042-5434",
+			"created": "2024-11-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Undergraduate student"
+		},
+		{
+			"orcid": "0009-0007-4409-2057",
+			"created": "2024-11-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Ph.D. candidate in Business Administration"
+		},
+		{
+			"orcid": "0009-0003-0179-6813",
+			"created": "2024-11-14",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-2998-5379",
+			"created": "2024-11-15",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-2620-8067",
+			"created": "2024-11-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Chair of Medicine"
+		},
+		{
+			"orcid": "0009-0007-7104-3242",
+			"created": "2024-11-22",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-2662-1742",
+			"created": "2024-11-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0006-1040-860X",
+			"created": "2024-11-23",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-4235-8293",
+			"created": "2024-11-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0009-4738-5570",
+			"created": "2024-11-23",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-6446-0526",
+			"created": "2024-11-28",
+			"role": "staff",
+			"basis": "title",
+			"title": "PhD Researcher"
+		},
+		{
+			"orcid": "0009-0001-5737-9387",
+			"created": "2024-12-01",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-6642-4937",
+			"created": "2024-12-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0003-3618-4139",
+			"created": "2024-12-05",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-6269-5598",
+			"created": "2024-12-06",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-7777-8594",
+			"created": "2024-12-06",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-7221-055X",
+			"created": "2024-12-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0007-9231-4857",
+			"created": "2024-12-08",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident"
+		},
+		{
+			"orcid": "0009-0003-0749-1236",
+			"created": "2024-12-09",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-8080-250X",
+			"created": "2024-12-10",
+			"role": "student",
+			"basis": "title",
+			"title": "International Student Services Coordinator"
+		},
+		{
+			"orcid": "0009-0006-2426-6024",
+			"created": "2024-12-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor of Finance"
+		},
+		{
+			"orcid": "0009-0002-2982-0128",
+			"created": "2024-12-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "STEM Instruction Librarian"
+		},
+		{
+			"orcid": "0009-0007-2168-8640",
+			"created": "2024-12-16",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-8743-7023",
+			"created": "2024-12-18",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident"
+		},
+		{
+			"orcid": "0009-0001-1056-8471",
+			"created": "2024-12-22",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-3694-5693",
+			"created": "2024-12-28",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-9793-2248",
+			"created": "2024-12-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Fellow"
+		},
+		{
+			"orcid": "0009-0004-5361-7714",
+			"created": "2025-01-08",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0004-0117-3373",
+			"created": "2025-01-13",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0005-6549-6312",
+			"created": "2025-01-14",
+			"role": "staff",
+			"basis": "title",
+			"title": "Nurse Practitioner"
+		},
+		{
+			"orcid": "0009-0000-2517-3408",
+			"created": "2025-01-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-8194-3710",
+			"created": "2025-01-16",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-8454-2136",
+			"created": "2025-01-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-7242-3663",
+			"created": "2025-01-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-4768-117X",
+			"created": "2025-01-22",
+			"role": "staff",
+			"basis": "title",
+			"title": "Project Inspire Coordinator"
+		},
+		{
+			"orcid": "0009-0009-2302-1617",
+			"created": "2025-01-22",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-2079-0885",
+			"created": "2025-01-24",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-1580-9753",
+			"created": "2025-01-25",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-4492-8938",
+			"created": "2025-01-25",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-3013-9734",
+			"created": "2025-01-25",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral Student"
+		},
+		{
+			"orcid": "0009-0000-4031-7465",
+			"created": "2025-01-26",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-0848-1354",
+			"created": "2025-01-26",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-5514-9228",
+			"created": "2025-01-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0006-8112-898X",
+			"created": "2025-01-27",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0007-0769-9351",
+			"created": "2025-01-27",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0008-6753-5495",
+			"created": "2025-01-28",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-7632-1043",
+			"created": "2025-01-29",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0008-9787-1051",
+			"created": "2025-02-03",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-2252-7902",
+			"created": "2025-02-10",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0009-0007-8942-2099",
+			"created": "2025-02-10",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0006-3305-5819",
+			"created": "2025-02-11",
+			"role": "student",
+			"basis": "title",
+			"title": "Ph.D. student"
+		},
+		{
+			"orcid": "0009-0002-6121-1904",
+			"created": "2025-02-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Pathologist"
+		},
+		{
+			"orcid": "0009-0007-2187-1541",
+			"created": "2025-02-14",
+			"role": "staff",
+			"basis": "title",
+			"title": "Graduate"
+		},
+		{
+			"orcid": "0009-0003-6236-9495",
+			"created": "2025-02-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0000-1278-1666",
+			"created": "2025-02-18",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0005-0772-2203",
+			"created": "2025-02-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0007-7717-0277",
+			"created": "2025-02-19",
+			"role": "student",
+			"basis": "title",
+			"title": "DNP Student"
+		},
+		{
+			"orcid": "0009-0000-5409-5007",
+			"created": "2025-02-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-2575-7631",
+			"created": "2025-02-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-2596-7595",
+			"created": "2025-02-22",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-5793-6204",
+			"created": "2025-02-26",
+			"role": "staff",
+			"basis": "title",
+			"title": "Researcher"
+		},
+		{
+			"orcid": "0009-0003-9741-6685",
+			"created": "2025-03-02",
+			"role": "student",
+			"basis": "title",
+			"title": "resident Doctor"
+		},
+		{
+			"orcid": "0009-0007-0577-5816",
+			"created": "2025-03-06",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Researcher"
+		},
+		{
+			"orcid": "0009-0004-4935-7518",
+			"created": "2025-03-12",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-7795-9250",
+			"created": "2025-03-14",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-8434-7228",
+			"created": "2025-03-14",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-9848-9849",
+			"created": "2025-03-17",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0008-1408-3157",
+			"created": "2025-03-17",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0000-5258-8377",
+			"created": "2025-03-18",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-4365-9016",
+			"created": "2025-03-18",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-3033-0886",
+			"created": "2025-03-18",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-6299-013X",
+			"created": "2025-03-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0009-8850-5444",
+			"created": "2025-03-20",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-0030-3047",
+			"created": "2025-03-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor and Department Chair"
+		},
+		{
+			"orcid": "0009-0006-2995-2808",
+			"created": "2025-03-26",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-5915-8757",
+			"created": "2025-03-26",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-4888-3925",
+			"created": "2025-04-02",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-1381-2727",
+			"created": "2025-04-04",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-8779-9130",
+			"created": "2025-04-04",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident"
+		},
+		{
+			"orcid": "0009-0000-2083-6364",
+			"created": "2025-04-07",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-2962-367X",
+			"created": "2025-04-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0007-5991-4025",
+			"created": "2025-04-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0005-3774-5211",
+			"created": "2025-04-15",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assisstant"
+		},
+		{
+			"orcid": "0009-0002-2217-9526",
+			"created": "2025-04-17",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0009-6913-5492",
+			"created": "2025-04-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-4248-0117",
+			"created": "2025-04-23",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-3765-377X",
+			"created": "2025-04-26",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-2987-5036",
+			"created": "2025-04-29",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0001-9024-4724",
+			"created": "2025-04-30",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-5564-5441",
+			"created": "2025-04-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0000-7570-3016",
+			"created": "2025-05-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0002-9949-302X",
+			"created": "2025-05-05",
+			"role": "staff",
+			"basis": "title",
+			"title": "Academic Advisor I"
+		},
+		{
+			"orcid": "0009-0005-0953-832X",
+			"created": "2025-05-05",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-8607-891X",
+			"created": "2025-05-05",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-0844-0523",
+			"created": "2025-05-15",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-5741-8438",
+			"created": "2025-05-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-4735-4222",
+			"created": "2025-05-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0009-4570-9025",
+			"created": "2025-05-19",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor/Chair"
+		},
+		{
+			"orcid": "0009-0001-8712-2232",
+			"created": "2025-05-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate professor"
+		},
+		{
+			"orcid": "0009-0000-3535-4069",
+			"created": "2025-05-29",
+			"role": "student",
+			"basis": "title",
+			"title": "Phd Student"
+		},
+		{
+			"orcid": "0009-0004-6508-031X",
+			"created": "2025-05-29",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-2686-2474",
+			"created": "2025-06-01",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-3706-3514",
+			"created": "2025-06-04",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0009-0005-6824-6909",
+			"created": "2025-06-06",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-4979-1319",
+			"created": "2025-06-11",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-1385-283X",
+			"created": "2025-06-14",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-4881-5900",
+			"created": "2025-06-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0002-9153-2397",
+			"created": "2025-06-23",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-3447-3583",
+			"created": "2025-06-24",
+			"role": "staff",
+			"basis": "title",
+			"title": "Clinical Research Coordinator"
+		},
+		{
+			"orcid": "0009-0006-3050-7912",
+			"created": "2025-06-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0004-2344-914X",
+			"created": "2025-06-27",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0000-8519-0963",
+			"created": "2025-06-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0007-4361-081X",
+			"created": "2025-06-30",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-0674-5052",
+			"created": "2025-07-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0009-0948-9563",
+			"created": "2025-07-12",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-6249-9804",
+			"created": "2025-07-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Asst. Professor"
+		},
+		{
+			"orcid": "0009-0001-6143-5716",
+			"created": "2025-07-15",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0001-1476-2730",
+			"created": "2025-07-16",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-5740-1595",
+			"created": "2025-07-20",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-7625-1118",
+			"created": "2025-07-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-2329-0764",
+			"created": "2025-07-24",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Technologist IV"
+		},
+		{
+			"orcid": "0009-0004-2604-4674",
+			"created": "2025-07-28",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-2092-5839",
+			"created": "2025-07-29",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0009-0000-6366-7724",
+			"created": "2025-07-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-6991-0954",
+			"created": "2025-08-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Undergraduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0003-8232-6513",
+			"created": "2025-08-03",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor, Pediatrics Critical Care Medicine"
+		},
+		{
+			"orcid": "0009-0002-1184-9985",
+			"created": "2025-08-06",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-1379-7345",
+			"created": "2025-08-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Undergraduate Student"
+		},
+		{
+			"orcid": "0009-0004-2184-8542",
+			"created": "2025-08-14",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0004-4331-4015",
+			"created": "2025-08-14",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0006-3079-6179",
+			"created": "2025-08-14",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-3591-3067",
+			"created": "2025-08-15",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-8726-2638",
+			"created": "2025-08-15",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-9079-8687",
+			"created": "2025-08-15",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-2759-0754",
+			"created": "2025-08-15",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD student"
+		},
+		{
+			"orcid": "0009-0007-6916-3587",
+			"created": "2025-08-15",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0968-9517",
+			"created": "2025-08-15",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD student"
+		},
+		{
+			"orcid": "0009-0009-8543-3780",
+			"created": "2025-08-15",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral student"
+		},
+		{
+			"orcid": "0009-0001-8563-594X",
+			"created": "2025-08-17",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0007-4026-7649",
+			"created": "2025-08-17",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-8470-8902",
+			"created": "2025-08-18",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-1724-4801",
+			"created": "2025-08-19",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-7356-9038",
+			"created": "2025-08-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0007-7182-2350",
+			"created": "2025-08-22",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0004-4917-7277",
+			"created": "2025-08-24",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-6178-5461",
+			"created": "2025-08-24",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0000-5231-3314",
+			"created": "2025-09-06",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-5083-4851",
+			"created": "2025-09-08",
+			"role": "staff",
+			"basis": "title",
+			"title": "Major in chemical engineering"
+		},
+		{
+			"orcid": "0009-0007-5762-020X",
+			"created": "2025-09-11",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant II"
+		},
+		{
+			"orcid": "0009-0004-8773-146X",
+			"created": "2025-09-13",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0003-5735-5646",
+			"created": "2025-09-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-6854-7141",
+			"created": "2025-09-16",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Candidate"
+		},
+		{
+			"orcid": "0009-0001-8460-1078",
+			"created": "2025-09-17",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0006-1656-9033",
+			"created": "2025-09-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0007-1483-2974",
+			"created": "2025-09-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0001-2884-8877",
+			"created": "2025-09-22",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-5075-3761",
+			"created": "2025-09-24",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-6797-7808",
+			"created": "2025-09-26",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Intern"
+		},
+		{
+			"orcid": "0009-0004-4497-1690",
+			"created": "2025-09-30",
+			"role": "staff",
+			"basis": "title",
+			"title": "DNP graduate"
+		},
+		{
+			"orcid": "0009-0005-0556-6403",
+			"created": "2025-09-30",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-8987-2941",
+			"created": "2025-09-30",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-1435-2321",
+			"created": "2025-09-30",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0007-2937-8129",
+			"created": "2025-10-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0005-5581-3679",
+			"created": "2025-10-05",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-2988-6755",
+			"created": "2025-10-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0007-5778-8272",
+			"created": "2025-10-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0009-0003-1286-8587",
+			"created": "2025-10-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0001-3119-5678",
+			"created": "2025-10-12",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-3779-8640",
+			"created": "2025-10-13",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-1909-1292",
+			"created": "2025-10-13",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0003-7389-1844",
+			"created": "2025-10-15",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-5985-4915",
+			"created": "2025-10-19",
+			"role": "staff",
+			"basis": "title",
+			"title": "UTeach South Master Teacher"
+		},
+		{
+			"orcid": "0009-0008-2450-0532",
+			"created": "2025-10-22",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-8989-4773",
+			"created": "2025-10-26",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0002-4421-7132",
+			"created": "2025-11-04",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Assistant"
+		},
+		{
+			"orcid": "0009-0003-3813-9622",
+			"created": "2025-11-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Scholarly Communications Librarian"
+		},
+		{
+			"orcid": "0009-0005-4759-8446",
+			"created": "2025-11-11",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-1137-9613",
+			"created": "2025-11-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0005-8419-0116",
+			"created": "2025-11-12",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0417-3618",
+			"created": "2025-11-12",
+			"role": "staff",
+			"basis": "title",
+			"title": "Administrator, JagWorks@USA Institutional Repository"
+		},
+		{
+			"orcid": "0009-0004-9077-5711",
+			"created": "2025-11-13",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-1794-4663",
+			"created": "2025-11-15",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0002-8570-7285",
+			"created": "2025-11-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0006-8914-225X",
+			"created": "2025-11-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-0166-5858",
+			"created": "2025-11-18",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0005-0157-2478",
+			"created": "2025-11-20",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0004-8439-4461",
+			"created": "2025-11-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-6558-9955",
+			"created": "2025-11-25",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Adjunct Professor"
+		},
+		{
+			"orcid": "0009-0005-8061-9552",
+			"created": "2025-11-28",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0000-4765-275X",
+			"created": "2025-12-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0007-4601-2751",
+			"created": "2025-12-07",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-2727-9337",
+			"created": "2025-12-09",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-8687-1573",
+			"created": "2025-12-09",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-9177-5865",
+			"created": "2025-12-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "GIS Program Coordinator / Associate Professor"
+		},
+		{
+			"orcid": "0009-0007-0032-2076",
+			"created": "2025-12-12",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0002-1458-9787",
+			"created": "2025-12-19",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-2434-8260",
+			"created": "2025-12-20",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-2542-3928",
+			"created": "2026-01-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0001-4148-6161",
+			"created": "2026-01-08",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-5374-5860",
+			"created": "2026-01-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0002-4317-6666",
+			"created": "2026-01-09",
+			"role": "student",
+			"basis": "title",
+			"title": "STUDENT"
+		},
+		{
+			"orcid": "0009-0009-6047-8245",
+			"created": "2026-01-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0004-0567-2719",
+			"created": "2026-01-13",
+			"role": "staff",
+			"basis": "title",
+			"title": "Clinical Counselor/ Case Manager"
+		},
+		{
+			"orcid": "0009-0005-4599-0356",
+			"created": "2026-01-13",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-1690-5172",
+			"created": "2026-01-13",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-7115-7011",
+			"created": "2026-01-18",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0009-0146-7351",
+			"created": "2026-01-18",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0009-7731-2954",
+			"created": "2026-01-20",
+			"role": "faculty",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-3606-4105",
+			"created": "2026-01-22",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident"
+		},
+		{
+			"orcid": "0009-0000-1777-4385",
+			"created": "2026-01-23",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0001-1016-4389",
+			"created": "2026-01-27",
+			"role": "student",
+			"basis": "title",
+			"title": "Undergrad student"
+		},
+		{
+			"orcid": "0009-0006-3384-4308",
+			"created": "2026-01-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-1640-1737",
+			"created": "2026-01-29",
+			"role": "staff",
+			"basis": "title",
+			"title": "Undergraduate"
+		},
+		{
+			"orcid": "0009-0005-7086-5231",
+			"created": "2026-01-30",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0006-9222-1477",
+			"created": "2026-01-30",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-6400-1503",
+			"created": "2026-01-30",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-3001-4401",
+			"created": "2026-02-03",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-9758-8460",
+			"created": "2026-02-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0004-5599-146X",
+			"created": "2026-02-04",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0009-2516-788X",
+			"created": "2026-02-06",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-4458-5411",
+			"created": "2026-02-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral Student"
+		},
+		{
+			"orcid": "0009-0001-5714-2507",
+			"created": "2026-02-08",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-5411-2248",
+			"created": "2026-02-09",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0008-7492-4528",
+			"created": "2026-02-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0009-0006-2845-9376",
+			"created": "2026-02-11",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-0837-5597",
+			"created": "2026-02-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0002-9432-7292",
+			"created": "2026-02-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-9768-289X",
+			"created": "2026-02-20",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-6135-942X",
+			"created": "2026-02-21",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0006-7232-1024",
+			"created": "2026-02-24",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0009-0001-3514-9898",
+			"created": "2026-02-28",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-5407-9609",
+			"created": "2026-03-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0003-8567-0387",
+			"created": "2026-03-02",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-8299-392X",
+			"created": "2026-03-02",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-6076-050X",
+			"created": "2026-03-04",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-1803-867X",
+			"created": "2026-03-06",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-7629-9215",
+			"created": "2026-03-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		},
+		{
+			"orcid": "0009-0001-7126-9029",
+			"created": "2026-03-12",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-6630-9194",
+			"created": "2026-03-12",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-5954-650X",
+			"created": "2026-03-13",
+			"role": "staff",
+			"basis": "title",
+			"title": "NICU Informatics Coordinator"
+		},
+		{
+			"orcid": "0009-0008-8602-9053",
+			"created": "2026-03-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-9534-3076",
+			"created": "2026-03-16",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Chair, Senior Instructor"
+		},
+		{
+			"orcid": "0009-0001-1268-541X",
+			"created": "2026-03-18",
+			"role": "staff",
+			"basis": "title",
+			"title": "DNP, APRN"
+		},
+		{
+			"orcid": "0009-0003-3323-0486",
+			"created": "2026-03-22",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0009-4568-3144",
+			"created": "2026-03-25",
+			"role": "student",
+			"basis": "title",
+			"title": "Undergraduate Student"
+		},
+		{
+			"orcid": "0009-0009-4604-0001",
+			"created": "2026-03-28",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-6021-4712",
+			"created": "2026-04-01",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0000-1525-604X",
+			"created": "2026-04-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0004-6521-5202",
+			"created": "2026-04-05",
+			"role": "staff",
+			"basis": "title",
+			"title": "Interventional Cardiologist"
+		},
+		{
+			"orcid": "0009-0009-4076-0411",
+			"created": "2026-04-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0004-7100-4604",
+			"created": "2026-04-09",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-3078-0753",
+			"created": "2026-04-11",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-0767-1871",
+			"created": "2026-04-11",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-8724-9119",
+			"created": "2026-04-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0008-9289-9127",
+			"created": "2026-04-23",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0001-4934-2381",
+			"created": "2026-04-24",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0004-5857-096X",
+			"created": "2026-04-24",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-0920-6613",
+			"created": "2026-05-05",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Adjunct Professor"
+		},
+		{
+			"orcid": "0009-0007-8246-3701",
+			"created": "2026-05-05",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-1853-8304",
+			"created": "2026-05-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0007-8022-7799",
+			"created": "2026-05-08",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-2477-6893",
+			"created": "2026-05-09",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-6112-2660",
+			"created": "2026-05-12",
+			"role": "staff",
+			"basis": "title",
+			"title": "RN, IBCLC"
+		},
+		{
+			"orcid": "0009-0006-0708-8668",
+			"created": "2026-05-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0007-5591-6162",
+			"created": "2026-05-14",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-4815-7566",
+			"created": "2026-05-16",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0001-5658-1014",
+			"created": "2026-05-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Neurology Resident"
+		},
+		{
+			"orcid": "0009-0003-0516-2885",
+			"created": "2026-05-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Research Assistant"
+		},
+		{
+			"orcid": "0009-0009-2738-591X",
+			"created": "2026-05-22",
+			"role": "staff",
+			"basis": "title",
+			"title": "Property and Inventory Control Assistant"
+		},
+		{
+			"orcid": "0009-0004-9817-1568",
+			"created": "2026-05-26",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-7620-707X",
+			"created": "2026-05-27",
+			"role": "staff",
+			"basis": "title",
+			"title": "Research Technician"
+		},
+		{
+			"orcid": "0009-0008-3184-6590",
+			"created": "2026-05-27",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Instructor"
+		},
+		{
+			"orcid": "0009-0008-5163-1706",
+			"created": "2026-06-02",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral candidate"
+		},
+		{
+			"orcid": "0009-0003-9856-2916",
+			"created": "2026-06-03",
+			"role": "student",
+			"basis": "title",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-7458-6258",
+			"created": "2026-06-07",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0003-1696-1543",
+			"created": "2026-06-09",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0007-7979-6396",
+			"created": "2026-06-10",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Chief Executive Officer"
+		},
+		{
+			"orcid": "0009-0008-2558-6526",
+			"created": "2026-06-11",
+			"role": "staff",
+			"basis": "title",
+			"title": "Manager"
+		},
+		{
+			"orcid": "0009-0009-1910-9392",
+			"created": "2026-06-11",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0009-3203-7274",
+			"created": "2026-06-11",
+			"role": "staff",
+			"basis": "title",
+			"title": "Cataloging Analyst"
+		},
+		{
+			"orcid": "0009-0008-2942-7581",
+			"created": "2026-06-17",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0006-4154-5260",
+			"created": "2026-06-19",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident Physician"
+		},
+		{
+			"orcid": "0009-0005-8359-7109",
+			"created": "2026-06-22",
+			"role": "student",
+			"basis": "title",
+			"title": "Ph.D. Graduate Student"
+		},
+		{
+			"orcid": "0009-0009-7511-2246",
+			"created": "2026-06-25",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0001-7828-3659",
+			"created": "2026-06-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0008-1857-2978",
+			"created": "2026-06-28",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0006-4048-8735",
+			"created": "2026-07-01",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-6857-7605",
+			"created": "2026-07-02",
+			"role": "staff",
+			"basis": "title",
+			"title": "Retired"
+		},
+		{
+			"orcid": "0009-0000-9864-4434",
+			"created": "2026-07-07",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor of Audiology"
+		},
+		{
+			"orcid": "0009-0009-4202-5349",
+			"created": "2026-07-08",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-5759-0109",
+			"created": "2026-07-09",
+			"role": "student",
+			"basis": "title",
+			"title": "Research Fellow"
+		},
+		{
+			"orcid": "0009-0005-1626-8866",
+			"created": "2026-07-09",
+			"role": "student",
+			"basis": "title",
+			"title": "PhD Student"
+		},
+		{
+			"orcid": "0009-0007-8550-9664",
+			"created": "2026-07-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-9345-9738",
+			"created": "2026-07-22",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-1752-1055",
+			"created": "2026-07-29",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0004-1146-5337",
+			"created": "2026-08-09",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0004-0144-0486",
+			"created": "2026-08-10",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0006-0143-0688",
+			"created": "2026-08-10",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0009-0009-2022-1357",
+			"created": "2026-08-10",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-5752-4155",
+			"created": "2026-08-13",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-2083-6593",
+			"created": "2026-08-14",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0000-6864-3609",
+			"created": "2026-08-17",
+			"role": "staff",
+			"basis": "title",
+			"title": "Neurology Technologist"
+		},
+		{
+			"orcid": "0009-0009-0117-6482",
+			"created": "2026-08-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0009-9047-0682",
+			"created": "2026-08-22",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0007-6567-2755",
+			"created": "2026-08-31",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-3016-865X",
+			"created": "2026-09-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Doctoral student and Graduate Assistant"
+		},
+		{
+			"orcid": "0009-0004-9987-8506",
+			"created": "2026-09-02",
+			"role": "student",
+			"basis": "title",
+			"title": "Clinical Pharmacist, PGY1 Pharmacy Residency Program Director"
+		},
+		{
+			"orcid": "0009-0002-5288-1463",
+			"created": "2026-09-03",
+			"role": "unknown",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0857-2085",
+			"created": "2026-09-03",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0000-5902-1744",
+			"created": "2026-09-04",
+			"role": "student",
+			"basis": "title",
+			"title": "Medical Student"
+		},
+		{
+			"orcid": "0009-0003-1933-0958",
+			"created": "2026-09-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Student"
+		},
+		{
+			"orcid": "0009-0004-1071-9278",
+			"created": "2026-09-05",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Assistant"
+		},
+		{
+			"orcid": "0009-0002-1105-0399",
+			"created": "2026-09-07",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0005-4059-5613",
+			"created": "2026-09-07",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0008-0179-8137",
+			"created": "2026-09-08",
+			"role": "staff",
+			"basis": "title",
+			"title": "intern"
+		},
+		{
+			"orcid": "0009-0008-8504-1608",
+			"created": "2026-09-15",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0000-1007-380X",
+			"created": "2026-09-16",
+			"role": "staff",
+			"basis": "title",
+			"title": "CMO/CQO"
+		},
+		{
+			"orcid": "0009-0000-3024-8769",
+			"created": "2026-09-16",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0003-5742-1172",
+			"created": "2026-09-17",
+			"role": "student",
+			"basis": "title",
+			"title": "Resident"
+		},
+		{
+			"orcid": "0009-0008-1748-9275",
+			"created": "2026-09-17",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0006-4818-2378",
+			"created": "2026-09-20",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Assistant Professor"
+		},
+		{
+			"orcid": "0009-0000-3155-4143",
+			"created": "2026-09-21",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0005-6678-8093",
+			"created": "2026-09-21",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-7946-9832",
+			"created": "2026-09-25",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0002-1191-7407",
+			"created": "2026-09-28",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Professor"
+		},
+		{
+			"orcid": "0009-0007-7547-3944",
+			"created": "2026-10-01",
+			"role": "student",
+			"basis": "title",
+			"title": "Graduate Student"
+		},
+		{
+			"orcid": "0009-0005-4555-7851",
+			"created": "2026-10-02",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0000-1753-068X",
+			"created": "2026-10-05",
+			"role": "student",
+			"basis": "inferred",
+			"title": ""
+		},
+		{
+			"orcid": "0009-0009-4608-8806",
+			"created": "2026-10-08",
+			"role": "faculty",
+			"basis": "title",
+			"title": "Associate Professor"
+		}
+	]
+}
